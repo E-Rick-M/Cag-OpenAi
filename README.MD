@@ -1,4 +1,4 @@
-# RAG Mini Demo Project
+# CAG Mini Demo Project
 
 This simple demo project shows how CAG workflows work in a nutshell.
 
